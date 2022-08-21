@@ -1,0 +1,29 @@
+_id: req_8dd7ce4f7ce742518645a4f8019c0e63
+type: Request
+parentId: wrk_5ba10c9e67f9466686a75fe6922d0102
+modified: 1653576618590
+created: 1653455757640
+url: https://appy-ecd-sml.azurewebsites.net/api/AddUrl
+name: addurl live
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"Url":"https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.environmentvariables.environmentvariablesconfigurationprovider?view=dotnet-plat-ext-6.0"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ca67ecdf48c84ad7bdfa8dbf4306e390
+authentication: {}
+metaSortKey: -1652607194380
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

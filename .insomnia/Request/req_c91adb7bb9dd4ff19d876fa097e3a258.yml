@@ -1,0 +1,25 @@
+_id: req_c91adb7bb9dd4ff19d876fa097e3a258
+type: Request
+parentId: fld_017f4f4801d54b9abe4817c1e70d54a9
+modified: 1657722437833
+created: 1657721920410
+url: https://dev.azure.com/dgmt/ECDLink/_apis/build/builds/2102/logs?api-version=5.1
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_f7f59567daf9432399c1cf0598fdfbfd
+    name: Content-Type
+    value: application/json-patch+json
+    description: ""
+authentication: {}
+metaSortKey: -1657721920410
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

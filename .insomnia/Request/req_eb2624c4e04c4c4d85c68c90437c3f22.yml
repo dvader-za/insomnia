@@ -1,0 +1,21 @@
+_id: req_eb2624c4e04c4c4d85c68c90437c3f22
+type: Request
+parentId: fld_8e45a9ddc4f1450bb10e82fbbf317e12
+modified: 1660152325731
+created: 1660150380807
+url: http://localhost:5000/get?query=select * from schools where Province = 'EC'
+name: get_table
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659240681499.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

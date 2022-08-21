@@ -1,0 +1,21 @@
+_id: req_0023de017f7e41faa0d0fd0642d30b58
+type: Request
+parentId: fld_40a00f6fa4a04a959ba3a2b1709fa210
+modified: 1659690770316
+created: 1658331928352
+url: http://localhost:8080
+name: dashboard dev
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1658331928352
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

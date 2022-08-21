@@ -1,0 +1,40 @@
+_id: req_8d47024d00c24d7cae3d2c398e928a7e
+type: Request
+parentId: fld_40a00f6fa4a04a959ba3a2b1709fa210
+modified: 1659971194746
+created: 1658500287765
+url: http://ecdlink-develop-api.azurewebsites.net/api/authentication/test
+name: test2
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/plain, */*
+    id: pair_6031b57ec5564232bd292a9fe1a9273d
+  - name: Accept-Encoding
+    value: gzip, deflate, br
+    id: pair_a799fb7a66834de4a03bf3b55405c404
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiMzM1NThjNGEtMzcwNy00MjJmLWJiOGItZDRmODJhOTI1N2M4IiwiaWQiOiIzMzU1OGM0YS0zNzA3LTQyMmYtYmI4Yi1kNGY4MmE5MjU3YzgiLCJyb2wiOiJBZG1pbmlzdHJhdG9yIiwidGVuYW50SWQiOiI2Iiwic3ViIjoiMzM1NThjNGEtMzcwNy00MjJmLWJiOGItZDRmODJhOTI1N2M4IiwianRpIjoiMTUxYjg2OGItZjQ0OS00ZDBlLWI5YzMtYzkzZmUzMTBjNTUyIiwiaWF0IjoxNjU4NTAwMDExLCJuYmYiOjE2NTg1MDAwMTEsImV4cCI6MTY1ODU4NjQxMSwiaXNzIjoid2ViQXBpIiwiYXVkIjoiZWNkbGluay1kZXZlbG9wLWFwaSJ9.j7Dtus8XP1Zse3Qi-BZkNkwNofffqNo519_j6R5DYEA
+    id: pair_0538ff6164af477b94ad8a0dc5ddc1f2
+  - name: Origin
+    value: https://ecdlink-develop-fe.azurewebsites.net
+    id: pair_760fdeff8f814895998ec0a24f262260
+  - name: Connection
+    value: keep-alive
+    id: pair_4cdaf45b03e24238bd7c1b2e609cbe81
+  - name: Referer
+    value: http://fe-service-grow-great-test.dev.ecdconnect.co.za
+    id: pair_2da10a75845c44ef80e78dcf5ff39b00
+authentication: {}
+metaSortKey: -1654037613454
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

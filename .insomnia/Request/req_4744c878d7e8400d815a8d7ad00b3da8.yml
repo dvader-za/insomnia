@@ -1,0 +1,21 @@
+_id: req_4744c878d7e8400d815a8d7ad00b3da8
+type: Request
+parentId: wrk_5ba10c9e67f9466686a75fe6922d0102
+modified: 1653455384181
+created: 1653455368830
+url: https://appy-ecd-sml.azurewebsites.net/api/76ptv
+name: redirect live
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651771901377
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

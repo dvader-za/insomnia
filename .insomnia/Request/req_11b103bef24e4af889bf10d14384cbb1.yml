@@ -1,0 +1,46 @@
+_id: req_11b103bef24e4af889bf10d14384cbb1
+type: Request
+parentId: fld_40a00f6fa4a04a959ba3a2b1709fa210
+modified: 1659971185807
+created: 1654513465080
+url: http://ecdlink-develop-api.azurewebsites.net/graphql
+name: test
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"query":"\n        query GetAllConsent($locale: String)
+    {\n          GetAllConsent(locale: $locale)
+    {          \n            id\n            name\n            type\n            description\n          }\n        }\n      ","variables":{"locale":"en-za"}}'
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/plain, */*
+    id: pair_6031b57ec5564232bd292a9fe1a9273d
+  - name: Accept-Encoding
+    value: gzip, deflate, br
+    id: pair_a799fb7a66834de4a03bf3b55405c404
+  - name: Content-Type
+    value: application/json
+    id: pair_90babc442c9e49338d21db1b1d55d41c
+  - name: Origin
+    value: https://ecdlink-develop-fe.azurewebsites.net
+    id: pair_760fdeff8f814895998ec0a24f262260
+  - name: Connection
+    value: keep-alive
+    id: pair_4cdaf45b03e24238bd7c1b2e609cbe81
+  - name: Referer
+    value: http://fe-service-grow-great-test.dev.ecdconnect.co.za
+    id: pair_2da10a75845c44ef80e78dcf5ff39b00
+authentication:
+  type: bearer
+  token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiODcxYTUwMjAtZGExMS00MGE1LWE1Y2EtMDA5ZTgzYzliOTI4IiwiaWQiOiI4NzFhNTAyMC1kYTExLTQwYTUtYTVjYS0wMDllODNjOWI5MjgiLCJyb2wiOiJBZG1pbmlzdHJhdG9yLE1vdGhlcixIZWFsdGggQ2FyZSBXb3JrZXIiLCJ0ZW5hbnRJZCI6IjkiLCJzdWIiOiI4NzFhNTAyMC1kYTExLTQwYTUtYTVjYS0wMDllODNjOWI5MjgiLCJqdGkiOiI5ZjRmMzQxNS00Yjc0LTQwOTgtOTk3Ny0yZmQ3NTM3ZmM3OTIiLCJpYXQiOjE2NTk2OTE2NTcsIm5iZiI6MTY1OTY5MTY1NiwiZXhwIjoxNjU5Nzc4MDU2LCJpc3MiOiJ3ZWJBcGkiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjQyMDAvIn0.dXXuIqSGBmbSXILP6ZRN8F4f7ZChtusuU4l5D596Zq4
+  disabled: false
+metaSortKey: -1654502875835
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,34 @@
+_id: req_239a4a8d58514a3891d7dc7c4027dc05
+type: Request
+parentId: fld_40a00f6fa4a04a959ba3a2b1709fa210
+modified: 1660149420803
+created: 1654502875885
+url: https://growgreat-develop-api.azurewebsites.net/api/authentication/login
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "username":"8606155112085",
+        "password":"Testing!234"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a820e27a2c4440d1bc5d71ebb30044c8
+  - id: pair_003c822fdd8c4904b32faa6cb09fe249
+    name: Referer
+    value: http://localhost
+    description: ""
+authentication: {}
+metaSortKey: -1654502875885
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

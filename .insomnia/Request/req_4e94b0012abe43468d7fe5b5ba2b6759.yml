@@ -1,0 +1,21 @@
+_id: req_4e94b0012abe43468d7fe5b5ba2b6759
+type: Request
+parentId: fld_39c1509b8a8f447395772be400837337
+modified: 1657891914139
+created: 1657872571496
+url: http://localhost/deployment/apy-k8s-dev-fe-2157
+name: delete deployment
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657871396504.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

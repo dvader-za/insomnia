@@ -1,0 +1,21 @@
+_id: req_6c1770b12483406ab1426c8a0c3b66a5
+type: Request
+parentId: fld_39c1509b8a8f447395772be400837337
+modified: 1657891926239
+created: 1657872148668
+url: http://localhost/deployments
+name: get deployments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657872148668
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

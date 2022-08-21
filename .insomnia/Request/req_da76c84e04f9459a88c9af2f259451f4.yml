@@ -1,0 +1,29 @@
+_id: req_da76c84e04f9459a88c9af2f259451f4
+type: Request
+parentId: wrk_5ba10c9e67f9466686a75fe6922d0102
+modified: 1654512940676
+created: 1653442487333
+url: http://localhost:7071/api/AddUrl
+name: addurl
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"Url":"https://web.whatsapp.com/"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_ca67ecdf48c84ad7bdfa8dbf4306e390
+authentication: {}
+metaSortKey: -1653442487333
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

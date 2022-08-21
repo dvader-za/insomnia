@@ -1,0 +1,37 @@
+_id: req_63b65ff9f71d48e9a22607a4267d4979
+type: Request
+parentId: fld_40a00f6fa4a04a959ba3a2b1709fa210
+modified: 1659971252293
+created: 1658999908232
+url: http://ecdlink-develop-api.azurewebsites.net/api/authentication/login
+name: login localhost
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "username":"8606155112085",
+        "password":"Testing!234"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a820e27a2c4440d1bc5d71ebb30044c8
+  - id: pair_003c822fdd8c4904b32faa6cb09fe249
+    name: Referer
+    value: http://localhost
+    description: ""
+authentication:
+  type: bearer
+  token: Bearer
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiYjRmNWNiNDAtZmJlNi02YjJmLTMyZWEtYzYyYTAyMDk1NWQ0IiwiaWQiOiJiNGY1Y2I0MC1mYmU2LTZiMmYtMzJlYS1jNjJhMDIwOTU1ZDQiLCJyb2wiOiJQcmFjdGl0aW9uZXIiLCJ0ZW5hbnRJZCI6IjMiLCJzdWIiOiJiNGY1Y2I0MC1mYmU2LTZiMmYtMzJlYS1jNjJhMDIwOTU1ZDQiLCJqdGkiOiIzM2M2NDk1MC05ODhiLTRlY2UtOTMyNC1iOWFhMzhjMGI4YzkiLCJpYXQiOjE2NTkzNjIwMTYsIm5iZiI6MTY1OTM2MjAxNiwiZXhwIjoxNjU5NDQ4NDE2LCJpc3MiOiJ3ZWJBcGkiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjQyMDAvIn0.zpvi89GuQ-4XFG11aiYRpULpJIGrIyJfbZulR52Esaw
+metaSortKey: -1654502875872.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

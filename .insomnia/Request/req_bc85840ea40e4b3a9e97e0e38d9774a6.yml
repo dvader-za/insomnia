@@ -1,0 +1,21 @@
+_id: req_bc85840ea40e4b3a9e97e0e38d9774a6
+type: Request
+parentId: fld_39c1509b8a8f447395772be400837337
+modified: 1657891997070
+created: 1657872515000
+url: http://localhost/deployment/apy-k8s-dev-fe-grow-great-deploy
+name: get deployment
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657871718860.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

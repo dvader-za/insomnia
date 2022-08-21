@@ -1,0 +1,43 @@
+_id: req_51cd2e2fdd454730b5c1abc8757ceee4
+type: Request
+parentId: fld_8e45a9ddc4f1450bb10e82fbbf317e12
+modified: 1660225373648
+created: 1660222634428
+url: http://localhost:5000/execute
+name: create schema
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"query":"CREATE TABLE \"schools\" (NatEmis INTEGER,DataYear
+    INTEGER,ProvinceCD INTEGER,Province VARCHAR(50),Institution_Name
+    VARCHAR(50),Status VARCHAR(50),Sector VARCHAR(50),Type_DoE VARCHAR(50),Phase
+    VARCHAR(50),Specialization VARCHAR(50),OwnerLand VARCHAR(50),OwnerBuild
+    VARCHAR(50),Ownership VARCHAR(50),ExDept VARCHAR(50),PaypointNo
+    VARCHAR(50),ComponentNo VARCHAR(50),ExamNo VARCHAR(50),ExamCentre
+    VARCHAR(50),GIS_Longitude REAL,GIS_Latitude REAL,GISSource
+    VARCHAR(50),Magisterial_District VARCHAR(50),DMunName VARCHAR(50),LMunName
+    VARCHAR(50),Ward_ID VARCHAR(50),EIRegion VARCHAR(50),EIDistrict
+    VARCHAR(50),EICircuit VARCHAR(50),Addressee VARCHAR(50),Township_Village
+    VARCHAR(50),Suburb VARCHAR(50),Town_City VARCHAR(50),StreetAddress
+    VARCHAR(128),PostalAddress VARCHAR(50),Telephone VARCHAR(50),Facsimile
+    VARCHAR(50),cellno INTEGER,E_Mail VARCHAR(50),Section21
+    VARCHAR(50),Section21_Funct VARCHAR(50),Quintile VARCHAR(50),NAS
+    BOOLEAN,NodalArea VARCHAR(50),RegistrationDate VARCHAR(50),NoFeeSchool
+    VARCHAR(50),Allocation VARCHAR(50),Urban_Rural
+    VARCHAR(50),Open_Boarding_school VARCHAR(50),\"Educator_Number 2017\"
+    INTEGER,\"Learner_Number 2017\" INTEGER);"}'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_47558507d67642c2b19f5226b3d77f77
+authentication: {}
+metaSortKey: -1659695058073.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

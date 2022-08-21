@@ -1,0 +1,21 @@
+_id: req_f5840bea3765490185716af245cec703
+type: Request
+parentId: fld_e366789fb9e8452cb4c6524937c3fa02
+modified: 1661009112425
+created: 1658082946939
+url: https://yts.torrentbay.to/api/v2/list_movies.json?query_term=jurassic+world
+name: get movies
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1658082946939
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

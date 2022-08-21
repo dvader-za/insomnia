@@ -1,0 +1,34 @@
+_id: req_cb3c716b54bf4033a0ba900e64d7a24d
+type: Request
+parentId: fld_40a00f6fa4a04a959ba3a2b1709fa210
+modified: 1659971169748
+created: 1658331795125
+url: http://growgreat-develop-api.azurewebsites.net/api/authentication/login
+name: login dev
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "username":"admin",
+        "password":"Hello123!"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a820e27a2c4440d1bc5d71ebb30044c8
+  - id: pair_b1df7e57a65b42d4a475473fe003fc86
+    name: Referrer
+    value: http://fe-service-grow-great-test.dev.ecdconnect.co.za
+    description: ""
+authentication: {}
+metaSortKey: -1654502875860
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

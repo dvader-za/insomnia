@@ -1,0 +1,21 @@
+_id: req_31adc74c27e8459ab6271b18b9ea6c26
+type: Request
+parentId: fld_39c1509b8a8f447395772be400837337
+modified: 1657891918044
+created: 1657872560689
+url: http://localhost/deployment/apy-k8s-dev-fe-2157
+name: post deployment
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657871503956.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

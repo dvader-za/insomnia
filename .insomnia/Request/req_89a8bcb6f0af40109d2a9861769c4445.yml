@@ -1,0 +1,21 @@
+_id: req_89a8bcb6f0af40109d2a9861769c4445
+type: Request
+parentId: fld_017f4f4801d54b9abe4817c1e70d54a9
+modified: 1657883785840
+created: 1657883700964
+url: https://storage.googleapis.com/
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1657883700964
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

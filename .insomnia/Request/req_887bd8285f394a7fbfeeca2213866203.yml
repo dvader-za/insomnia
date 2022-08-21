@@ -1,0 +1,21 @@
+_id: req_887bd8285f394a7fbfeeca2213866203
+type: Request
+parentId: wrk_5ba10c9e67f9466686a75fe6922d0102
+modified: 1653572369308
+created: 1653572351073
+url: " http://localhost:7071/api/Test?name=bob"
+name: test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653572351073
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

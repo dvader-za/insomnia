@@ -1,0 +1,21 @@
+_id: req_398b4437656843a38abcd6149c875d07
+type: Request
+parentId: wrk_5ba10c9e67f9466686a75fe6922d0102
+modified: 1653575373416
+created: 1653575351789
+url: https://appy-ecd-sml.azurewebsites.net/api/Stats
+name: stats live
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1653501441219.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
